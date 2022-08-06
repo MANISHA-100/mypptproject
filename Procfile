@@ -1,1 +1,1 @@
-web: gunicorn pptproject --log-file -
+web: gunicorn pptproject.mypptproject --log-file -
