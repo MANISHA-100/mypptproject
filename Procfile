@@ -1,1 +1,1 @@
-web: gunicorn pptproject.mypptproject --log-file -
+web: gunicorn emp_app.wsgi --log-file 
